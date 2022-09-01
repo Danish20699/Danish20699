@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danish20699
 - 👀 I’m interested in ...job
-- 🌱 I’m currently learning ...full stack
-- 💞️ I’m looking to collaborate on ...with compamies
+- 🌱 I’m have completed...full stack development
+- 💞️ I’m looking to collaborate .with compamies
 - 📫 How to reach me ...7006798511
 
 <!---
