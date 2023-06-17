@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danish20699/Personal-Blog](https://github.com/Danish20699/Personal-Blog)
 
-- 💬 Ask me about **JS,Mern**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **danishnazir20699@gmai.com**
 
