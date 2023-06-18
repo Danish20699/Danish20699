@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish20699&label=Profile%20views&color=0e75b6&style=flat" alt="danish20699" /> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently  **learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danish20699/Personal-Blog](https://github.com/Danish20699/Personal-Blog)
 
