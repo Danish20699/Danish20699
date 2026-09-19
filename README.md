@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25&height=220&section=header&text=Danish%20Nazir&fontSize=70&fontColor=ffffff&animation=twinkling&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Infrastructure%20Automation&descSize=22&descAlignY=70" width="100%"/>
+  <img src="./header.svg" width="100%" alt="Danish Nazir - DevOps Engineer"/>
 </div>
+
+<br/>
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=danish20699&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Danish20699)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish_Nazir-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-nazir1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish_Nazir-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-nazir-6359a624a/)
 [![Email](https://img.shields.io/badge/Email-danishnazir20699%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:danishnazir20699@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-danishnazir20699-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/danishnazir20699)
 
@@ -30,32 +32,32 @@ I am a results-driven **DevOps Engineer** and **MLOps Trainee** based in Jammu &
 
 #### **DevOps & Containerization**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 #### **Databases & Web Servers**
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 #### **Programming & Automation**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 </p>
 
 ---
@@ -76,18 +78,13 @@ I am a results-driven **DevOps Engineer** and **MLOps Trainee** based in Jammu &
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=danish20699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish20699&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish20699&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="750" />
+  <p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danish20699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danish20699&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=danish20699&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  </p>
 </div>
 
 ---
@@ -96,7 +93,7 @@ I am a results-driven **DevOps Engineer** and **MLOps Trainee** based in Jammu &
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-nazir1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-nazir-6359a624a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danish20699)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishnazir20699@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/danishnazir20699)
