@@ -1,15 +1,26 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Danish Nazir - DevOps Engineer & Full-Stack Developer"/>
-</div>
+
+# 👋 Hi, I'm Danish Nazir
+### 🚀 DevOps Engineer & Full-Stack Developer | MLOps Trainee
+**📍 Srinagar, Jammu & Kashmir, India**
 
 <br/>
 
-<div align="center">
-
 [![Profile Views](https://komarev.com/ghpvc/?username=danish20699&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Danish20699)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish_Nazir-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-nazir-6359a624a/)
-[![Email](https://img.shields.io/badge/Email-danishnazir20699%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:danishnazir20699@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish_Nazir-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-nazir-6359a624a/)
+[![Email](https://img.shields.io/badge/Email-danishnazir20699%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danishnazir20699@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-danishnazir20699-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/danishnazir20699)
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
 
 </div>
 
@@ -29,6 +40,18 @@ I am a versatile **DevOps Engineer & Full-Stack Developer** based in Jammu & Kas
 ---
 
 ### 🛠️ Tech Stack & Skills
+
+#### **DevOps, Cloud & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
 
 #### **Frontend Development**
 <p>
@@ -51,34 +74,22 @@ I am a versatile **DevOps Engineer & Full-Stack Developer** based in Jammu & Kas
   <img src="https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 </p>
 
-#### **DevOps, Cloud & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
-
 #### **Databases**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
 
-### 🚀 Featured Full-Stack & DevOps Repositories
+### 🚀 Featured Repositories
 
 | Repository | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
-| [**my_portfolio_final**](https://github.com/Danish20699/my_portfolio_final) | Modern responsive portfolio website showcasing production projects, technical certifications, and system architecture. | HTML5, CSS3, JavaScript, Web |
 | [**docker**](https://github.com/Danish20699/docker) | Production containerization labs covering container lifecycles, bind mounts, volume persistence, isolated custom networks, and multi-container stacks. | Docker, Postgres, Apache, Linux |
 | [**-portfolio-ansible-automation**](https://github.com/Danish20699/-portfolio-ansible-automation) | Automated provisioning, deployment, and lifecycle management of a dynamic LAPP stack across Linux VMs using modern Ansible Playbooks and FQCN. | Ansible, YAML, Linux, PHP |
+| [**my_portfolio_final**](https://github.com/Danish20699/my_portfolio_final) | Modern responsive portfolio website showcasing production projects, technical certifications, and system architecture. | HTML5, CSS3, JavaScript, Web |
 | [**QuantaFONS-Hisaa**](https://github.com/Danish20699/QuantaFONS-Hisaa) | Persistent financial management web application with multi-user balance tracking, administrative limits, and transaction logging. | JavaScript, Database, Web App |
 | [**postgresql-labs**](https://github.com/Danish20699/postgresql-labs) | Hands-on relational database labs covering DDL/DML, indexing strategies, user roles, security, backup/restore, and container volume persistence. | PostgreSQL, SQL, Database Design |
 | [**Single-Page-Movie-App**](https://github.com/Danish20699/Single-Page-Movie-App) | Dynamic single-page movie search and discovery web application with responsive grid layout and REST API integration. | React, JavaScript, REST API |
