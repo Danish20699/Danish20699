@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .lang-name { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e2e8f0; }
+    .lang-pct { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #94a3b8; }
+  </style>
+
+  <rect width="450" height="195" rx="6" fill="#1a1b26" stroke="#24283b" stroke-width="1" />
+
+  <g transform="translate(25, 32)">
+    <text x="0" y="0" class="header">Most Used Languages</text>
+  </g>
+
+  <!-- Multi-segment Progress Bar -->
+  <g transform="translate(25, 52)">
+    <mask id="bar-mask">
+      <rect width="400" height="10" rx="5" fill="white" />
+    </mask>
+    <g mask="url(#bar-mask)">
+      <!-- JS 47% -> 188px -->
+      <rect x="0" y="0" width="188" height="10" fill="#f1e05a" />
+      <!-- CSS 24.4% -> 98px -->
+      <rect x="188" y="0" width="98" height="10" fill="#563d7c" />
+      <!-- TS 23% -> 92px -->
+      <rect x="286" y="0" width="92" height="10" fill="#3178c6" />
+      <!-- Python 3.3% -> 13px -->
+      <rect x="378" y="0" width="13" height="10" fill="#3572A5" />
+      <!-- PHP 1.7% -> 7px -->
+      <rect x="391" y="0" width="7" height="10" fill="#4F5D95" />
+      <!-- Shell 0.6% -> 2px -->
+      <rect x="398" y="0" width="2" height="10" fill="#89e051" />
+    </g>
+  </g>
+
+  <!-- Legend Items (2 Columns x 3 Rows) -->
+  <g transform="translate(25, 85)">
+    <!-- Col 1, Row 1: JavaScript -->
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="6" r="5" fill="#f1e05a" />
+      <text x="20" y="10" class="lang-name">JavaScript</text>
+      <text x="120" y="10" class="lang-pct">47.0%</text>
+    </g>
+
+    <!-- Col 1, Row 2: CSS -->
+    <g transform="translate(0, 30)">
+      <circle cx="6" cy="6" r="5" fill="#563d7c" />
+      <text x="20" y="10" class="lang-name">CSS</text>
+      <text x="120" y="10" class="lang-pct">24.4%</text>
+    </g>
+
+    <!-- Col 1, Row 3: TypeScript -->
+    <g transform="translate(0, 60)">
+      <circle cx="6" cy="6" r="5" fill="#3178c6" />
+      <text x="20" y="10" class="lang-name">TypeScript</text>
+      <text x="120" y="10" class="lang-pct">23.0%</text>
+    </g>
+
+    <!-- Col 2, Row 1: Python -->
+    <g transform="translate(210, 0)">
+      <circle cx="6" cy="6" r="5" fill="#3572A5" />
+      <text x="20" y="10" class="lang-name">Python</text>
+      <text x="110" y="10" class="lang-pct">3.3%</text>
+    </g>
+
+    <!-- Col 2, Row 2: PHP -->
+    <g transform="translate(210, 30)">
+      <circle cx="6" cy="6" r="5" fill="#4F5D95" />
+      <text x="20" y="10" class="lang-name">PHP</text>
+      <text x="110" y="10" class="lang-pct">1.7%</text>
+    </g>
+
+    <!-- Col 2, Row 3: Shell -->
+    <g transform="translate(210, 60)">
+      <circle cx="6" cy="6" r="5" fill="#89e051" />
+      <text x="20" y="10" class="lang-name">Shell / Bash</text>
+      <text x="110" y="10" class="lang-pct">0.6%</text>
+    </g>
+  </g>
+</svg>

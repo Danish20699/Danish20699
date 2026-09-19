@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; animation: fadeInAnimation 0.8s ease-in-out forwards; }
+    .stat-bold { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdf8; }
+    .stat-label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #94a3b8; }
+    .rank-text { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .rank-sub { font: 500 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #64748b; }
+    .icon { fill: #bf91f3; }
+  </style>
+
+  <rect width="450" height="195" rx="6" fill="#1a1b26" stroke="#24283b" stroke-width="1" />
+
+  <g transform="translate(25, 32)">
+    <text x="0" y="0" class="header">Danish Nazir's GitHub Stats</text>
+  </g>
+
+  <!-- Stat Items -->
+  <g transform="translate(25, 50)">
+    <!-- Row 1: Total Contributions -->
+    <g transform="translate(0, 20)">
+      <circle cx="6" cy="6" r="4" fill="#38bdf8" />
+      <text x="20" y="10" class="stat-label">Total Contributions:</text>
+      <text x="180" y="10" class="stat-bold">345+</text>
+    </g>
+
+    <!-- Row 2: Public Repositories -->
+    <g transform="translate(0, 48)">
+      <circle cx="6" cy="6" r="4" fill="#818cf8" />
+      <text x="20" y="10" class="stat-label">Public Repositories:</text>
+      <text x="180" y="10" class="stat-bold">33</text>
+    </g>
+
+    <!-- Row 3: Current Streak -->
+    <g transform="translate(0, 76)">
+      <circle cx="6" cy="6" r="4" fill="#34d399" />
+      <text x="20" y="10" class="stat-label">Current Streak:</text>
+      <text x="180" y="10" class="stat-bold">6 Days 🔥</text>
+    </g>
+
+    <!-- Row 4: Contributed Repos -->
+    <g transform="translate(0, 104)">
+      <circle cx="6" cy="6" r="4" fill="#f43f5e" />
+      <text x="20" y="10" class="stat-label">Active Projects:</text>
+      <text x="180" y="10" class="stat-bold">29 Repos</text>
+    </g>
+  </g>
+
+  <!-- Rank Circle Badge -->
+  <g transform="translate(355, 105)">
+    <circle cx="0" cy="0" r="42" fill="none" stroke="#24283b" stroke-width="5" />
+    <circle cx="0" cy="0" r="42" fill="none" stroke="#70a5fd" stroke-width="5" stroke-dasharray="264" stroke-dashoffset="40" stroke-linecap="round" />
+    <text x="0" y="7" text-anchor="middle" class="rank-text">A+</text>
+    <text x="0" y="24" text-anchor="middle" class="rank-sub">DEVOPS</text>
+  </g>
+</svg>
