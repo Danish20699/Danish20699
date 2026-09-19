@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Danish Nazir - DevOps Engineer"/>
+  <img src="./header.svg" width="100%" alt="Danish Nazir - DevOps Engineer & Full-Stack Developer"/>
 </div>
 
 <br/>
@@ -17,20 +17,41 @@
 
 ### 👨‍💻 About Me
 
-I am a results-driven **DevOps Engineer** and **MLOps Trainee** based in Jammu & Kashmir, India. I specialize in architecting reliable containerized systems, automating cloud infrastructure, configuring Linux server environments, and building robust database backends.
+I am a versatile **DevOps Engineer & Full-Stack Developer** based in Jammu & Kashmir, India. I bridge the gap between modern application development and scalable cloud infrastructure—building dynamic web applications with the **MERN stack (MongoDB, Express, React, Node.js)**, containerizing services with **Docker**, automating deployment pipelines with **Ansible**, and managing high-reliability **PostgreSQL** databases on Linux.
 
-- 🔭 **Currently Building**: Production-grade multi-container architectures, Infrastructure as Code with Ansible, and containerized LAPP stacks.
-- 🎯 **Current Focus**: Advanced Docker workflows, persistent storage drivers, bridge & overlay networking, and CI/CD pipelines.
-- 💡 **Core Strengths**: Linux System Administration, Containerization, Relational Database Engineering (PostgreSQL), and Automation Scripting (Python & Shell).
-- 💬 **Ask me about**: Docker lifecycle & networking, Ansible automation playbooks, Linux troubleshooting, and PostgreSQL administration.
+- 🔭 **Currently Building**: End-to-end multi-tier web applications, Dockerized microservices, Infrastructure as Code with Ansible, and database-driven dynamic backends.
+- 🎯 **Core Specialization**: Full-Stack Web Development + DevOps Infrastructure Automation.
+- 💡 **Technical Strengths**: Component-driven UI architecture, REST API design, Linux System Administration, Containerization, and Database Schema Optimization.
+- 💬 **Ask me about**: Full-Stack architecture (React/Node), Docker networking & volumes, Ansible automation, Linux CLI, and PostgreSQL.
 - 📫 **Contact**: [danishnazir20699@gmail.com](mailto:danishnazir20699@gmail.com)
-- ⚡ **Engineering Motto**: *"Automate once, scale predictably, run reliably."*
+- ⚡ **Engineering Philosophy**: *"Design intuitive user experiences, build resilient APIs, automate predictable deployments."*
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-#### **DevOps & Containerization**
+#### **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### **Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+</p>
+
+#### **DevOps, Cloud & Infrastructure**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
@@ -42,36 +63,27 @@ I am a results-driven **DevOps Engineer** and **MLOps Trainee** based in Jammu &
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-#### **Databases & Web Servers**
+#### **Databases**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-#### **Programming & Automation**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ---
 
-### 🚀 Featured DevOps Repositories
+### 🚀 Featured Full-Stack & DevOps Repositories
 
-| Repository | Focus & Architecture | Primary Tech |
+| Repository | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
+| [**ECommMernAppFullStack**](https://github.com/Danish20699/ECommMernAppFullStack) | Full-stack e-commerce web platform featuring user authentication, product catalog, cart state, and order workflows. | React, Node.js, Express, MongoDB |
 | [**docker**](https://github.com/Danish20699/docker) | Production containerization labs covering container lifecycles, bind mounts, volume persistence, isolated custom networks, and multi-container stacks. | Docker, Postgres, Apache, Linux |
 | [**-portfolio-ansible-automation**](https://github.com/Danish20699/-portfolio-ansible-automation) | Automated provisioning, deployment, and lifecycle management of a dynamic LAPP stack across Linux VMs using modern Ansible Playbooks and FQCN. | Ansible, YAML, Linux, PHP |
-| [**linux**](https://github.com/Danish20699/linux) & [**linux1**](https://github.com/Danish20699/linux1) | Comprehensive Linux administration labs: user/group management, permissions, systemd services, SSH hardening, disk partitioning, and bash automation. | Linux, Bash, SysAdmin |
+| [**QuantaFONS-Hisaa**](https://github.com/Danish20699/QuantaFONS-Hisaa) | Persistent financial management web application with multi-user balance tracking, administrative limits, and transaction logging. | JavaScript, Database, Web App |
 | [**postgresql-labs**](https://github.com/Danish20699/postgresql-labs) | Hands-on relational database labs covering DDL/DML, indexing strategies, user roles, security, backup/restore, and container volume persistence. | PostgreSQL, SQL, Database Design |
+| [**Single-Page-Movie-App**](https://github.com/Danish20699/Single-Page-Movie-App) | Dynamic single-page movie search and discovery web application with responsive grid layout and REST API integration. | React, JavaScript, REST API |
+| [**linux**](https://github.com/Danish20699/linux) & [**linux1**](https://github.com/Danish20699/linux1) | Comprehensive Linux administration labs: user/group management, permissions, systemd services, SSH hardening, disk partitioning, and bash automation. | Linux, Bash, SysAdmin |
 | [**python-AM**](https://github.com/Danish20699/python-AM) | Practical Python automation suites for DevOps operations, Google Sheets API synchronization, and infrastructure monitoring. | Python, REST APIs, Automation |
-| [**php-labs**](https://github.com/Danish20699/php-labs) | Dynamic web application architecture, database connectivity using PDO/pgSQL drivers, and Apache web server integration. | PHP, PostgreSQL, Apache |
 
 ---
 
