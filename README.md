@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I am a versatile **DevOps Engineer & Full-Stack Developer** based in Jammu & Kashmir, India. I bridge the gap between modern application development and scalable cloud infrastructure—building dynamic web applications with the **MERN stack (MongoDB, Express, React, Node.js)**, containerizing services with **Docker**, automating deployment pipelines with **Ansible**, and managing high-reliability **PostgreSQL** databases on Linux.
+I am a versatile **DevOps Engineer & Full-Stack Developer** based in Jammu & Kashmir, India. I bridge the gap between modern application development and scalable cloud infrastructure—building responsive web applications and REST APIs, containerizing services with **Docker**, automating deployment pipelines with **Ansible**, and managing high-reliability **PostgreSQL** databases on Linux.
 
 - 🔭 **Currently Building**: End-to-end multi-tier web applications, Dockerized microservices, Infrastructure as Code with Ansible, and database-driven dynamic backends.
 - 🎯 **Core Specialization**: Full-Stack Web Development + DevOps Infrastructure Automation.
@@ -76,7 +76,7 @@ I am a versatile **DevOps Engineer & Full-Stack Developer** based in Jammu & Kas
 
 | Repository | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
-| [**ECommMernAppFullStack**](https://github.com/Danish20699/ECommMernAppFullStack) | Full-stack e-commerce web platform featuring user authentication, product catalog, cart state, and order workflows. | React, Node.js, Express, MongoDB |
+| [**my_portfolio_final**](https://github.com/Danish20699/my_portfolio_final) | Modern responsive portfolio website showcasing production projects, technical certifications, and system architecture. | HTML5, CSS3, JavaScript, Web |
 | [**docker**](https://github.com/Danish20699/docker) | Production containerization labs covering container lifecycles, bind mounts, volume persistence, isolated custom networks, and multi-container stacks. | Docker, Postgres, Apache, Linux |
 | [**-portfolio-ansible-automation**](https://github.com/Danish20699/-portfolio-ansible-automation) | Automated provisioning, deployment, and lifecycle management of a dynamic LAPP stack across Linux VMs using modern Ansible Playbooks and FQCN. | Ansible, YAML, Linux, PHP |
 | [**QuantaFONS-Hisaa**](https://github.com/Danish20699/QuantaFONS-Hisaa) | Persistent financial management web application with multi-user balance tracking, administrative limits, and transaction logging. | JavaScript, Database, Web App |
